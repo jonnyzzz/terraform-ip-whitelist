@@ -1,0 +1,6 @@
+#!/bin/bash
+
+DOCKER_IMAGE=hashicorp/terraform:0.11.11
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+source "$DIR/aws-tool.sh"
