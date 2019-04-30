@@ -13,3 +13,17 @@ License
 
 MIT, see LICENSE file on the repository
 
+
+Running
+-------
+
+You may run the example module, for that, simply say the following commands (on Lunix or macOS with Docker):
+
+```
+./terraform init
+./terraform apply
+```
+
+
+
+
